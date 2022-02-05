@@ -1,0 +1,12 @@
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\bin\Debug\InterfataUtilizator_Consola.exe.config
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\bin\Debug\InterfataUtilizator_Consola.exe
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\bin\Debug\InterfataUtilizator_Consola.pdb
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\bin\Debug\LibrarieEntitati.dll
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\bin\Debug\NivelAccesDate.dll
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\bin\Debug\LibrarieEntitati.pdb
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\bin\Debug\NivelAccesDate.pdb
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\obj\Debug\InterfataUtilizator_Consola.csproj.AssemblyReference.cache
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\obj\Debug\InterfataUtilizator_Consola.csproj.CoreCompileInputs.cache
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\obj\Debug\InterfataUtilizator_Consola.csproj.CopyComplete
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\obj\Debug\InterfataUtilizator_Consola.exe
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\InterfataUtilizator_Consola\obj\Debug\InterfataUtilizator_Consola.pdb

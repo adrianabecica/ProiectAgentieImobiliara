@@ -1,0 +1,6 @@
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\LibrarieModele\bin\Debug\LibrarieEntitati.dll
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\LibrarieModele\bin\Debug\LibrarieEntitati.pdb
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\LibrarieModele\obj\Debug\LibrarieAgentie.csproj.AssemblyReference.cache
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\LibrarieModele\obj\Debug\LibrarieAgentie.csproj.CoreCompileInputs.cache
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\LibrarieModele\obj\Debug\LibrarieEntitati.dll
+D:\anul 2 facultate\semestrul 2\PIU\Becica Adriana-Mihaela Proiect PIU\Proiect PIU\LibrarieModele\obj\Debug\LibrarieEntitati.pdb
